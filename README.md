@@ -7,3 +7,5 @@ run `npm install`
 after completion, run `npm start`
 
 you can access the website from [http://localhost:3000](http://localhost:3000)
+
+pre-requirements: node - 14.15.1
